@@ -3,12 +3,12 @@ Hard-coded implementations of common data structures. Were required for universi
 
 ### Getting Started
 
-You may run it
+You may run it:
 1. From terminal: 
-- Type in: javac filename.java, 
-- To run your generated java class type in: java filename
-2. Using special IDEs (NetBeans, IntelliJ IDEA CE, etc.)
+- Type in: javac filename.java;
+- To run your generated java class type in: java filename;
+2. Using special IDEs (NetBeans, IntelliJ IDEA CE, etc.).
 
 ### Prerequisites
 
-You will need any JDK installed on your machine to run this code(in this case, JDK 7 was used to write and compile the code).
+You will need any JDK installed on your machine to run this code (in my case, JDK 7 was used to write and compile the code).
