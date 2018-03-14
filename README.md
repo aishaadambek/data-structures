@@ -3,8 +3,11 @@ Hard-coded implementations of common data structures. Were required for universi
 
 ### Getting Started
 
-You may run it either from terminal: 1. Type in your terminal window: javac filename.java, 2. To run your generated java class: java filename
-or using special IDEs (NetBeans, IntelliJ IDEA CE, etc.)
+You may run it
+1. From terminal: 
+- Type in: javac filename.java, 
+- To run your generated java class type in: java filename
+2. Using special IDEs (NetBeans, IntelliJ IDEA CE, etc.)
 
 ### Prerequisites
 
