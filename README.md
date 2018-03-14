@@ -1,7 +1,7 @@
-## data-structures
-Some hard-coded data structures. Were required for university courses (CSCI 152 - Algorithms and Data Structures).
+## Common Data Structures
+Hard-coded implementations of common data structures. Were required for university courses (CSCI 152 - Algorithms and Data Structures).
 
-## Getting Started
+### Getting Started
 
 You may run it either from terminal: 1. Type in your terminal window: javac filename.java, 2. To run your generated java class: java filename
 or using special IDEs (NetBeans, IntelliJ IDEA CE, etc.)
